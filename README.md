@@ -1,2 +1,2 @@
-# Python
-Working Python Scripts
+# Models & Tools
+- Beta Generation Customer Lifetime Value Model (Hardie & Fader)
