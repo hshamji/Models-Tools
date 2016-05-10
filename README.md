@@ -1,11 +1,10 @@
 # Models & Tools
 
-##Forecast Models
-> Beta Generation Customer Lifetime Value Model (Hardie & Fader)
+##Sample Projects
+> Customer/Consumer Churn Estimation
 
-    - models customer churn rates as a distribution of values to forecast future survival
+    - implementation of Beta Generation Lifetime Value Model (Hardie & Fader)
 
-##Miscellaneous
 > Simple Friend Predictor
 
     - predict friend candidates based on proximity and popularity, given pairwise friend relationships
