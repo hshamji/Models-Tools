@@ -1,7 +1,7 @@
 # Models & Tools
 
 ##Sample Projects
-> Customer/Consumer Churn Estimation
+> Customer Churn Estimation
 
     - implementation of Beta Generation Lifetime Value Model (Hardie & Fader)
 
