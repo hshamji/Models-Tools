@@ -9,6 +9,10 @@
 
     - preparing raw mortgage data for use in regression analysis
     
+> Modeling Mortgage Defaults - Part 1: Logistic Regression
+
+    - comprehensive overview of data analysis and model creation process, using real mortgage data
+    
 ##Applied Functions
 > Simple Friend Recommender
 
