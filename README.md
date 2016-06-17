@@ -11,7 +11,7 @@
 4. Modeling Mortgage Defaults - Part 2: Logistic Transition Models
     - exploration of linked logistic models to capture time-varying transition probabilities
 5. Modeling Mortgage Defaults - Part 3: Cox Regression and Hazard Rate Models
-    - estimation of a competing risks hazard rate model to predict future portfolio composition / exit attribution
+    - exploration of a competing risks hazard rate model to predict future portfolio composition / exit attribution
     
 ##Applied Functions
 1. Simple Friend Recommender
