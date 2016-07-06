@@ -16,3 +16,5 @@
 ##Applied Functions
 1. Simple Friend Recommender
     - predict friend candidates based on proximity and popularity
+2. Emerging Market ETF Analysis
+    - analysis of Emerging Market ETF returns and optimized allocation % in in US Equity portfolio
