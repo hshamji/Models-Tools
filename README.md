@@ -1,6 +1,6 @@
 # Models & Tools
 
-##Regression Models
+## Regression Models
 
 1. Customer Churn Estimation with Loyalty and Novelty Effects (PYTHON)
     - extension to the Hardie & Fader Model to include time-varying churn rates
@@ -15,7 +15,7 @@
 6. Modeling Mortgage Defaults - Part 3: Cox Regression and Hazard Rate Models (R)
     - exploration of a competing risks hazard rate model to predict future portfolio composition / exit attribution
     
-##Applied Functions
+## Applied Functions
 1. Simple Friend Recommender (PYTHON)
     - predict friend candidates based on proximity and popularity
 2. Emerging Market ETF Analysis (R)
